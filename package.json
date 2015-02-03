@@ -1,0 +1,25 @@
+{
+  "name": "safe-enum",
+  "version": "1.0.0",
+  "description": "define safe enums - if you get a key wrong you get a descriptive error not `undefined`",
+  "main": "safe-enum.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timruffles/safe-enum.git"
+  },
+  "keywords": [
+    "enum",
+    "enums",
+    "constant",
+    "constants"
+  ],
+  "author": "Tim Ruffles <timruffles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timruffles/safe-enum/issues"
+  },
+  "homepage": "https://github.com/timruffles/safe-enum"
+}
