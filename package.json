@@ -1,7 +1,7 @@
 {
   "name": "safe-enum",
-  "version": "1.0.0",
-  "description": "define safe enums - if you get a key wrong you get a descriptive error not `undefined`",
+  "version": "1.0.1",
+  "description": "define safe enums - if you get a key wrong you get a descriptive error not undefined",
   "main": "safe-enum.js",
   "scripts": {
     "test": "node test.js"
