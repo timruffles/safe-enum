@@ -12,8 +12,8 @@ exports.dateFormatsFromObject = enums({
   "UK": "gb"
 });
 
-exports.dateFormat("usUk"); // usUk
-exports.dateFormat("uUk"); // Error
+exports.dateFormats("usUk"); // usUk
+exports.dateFormats("uUk"); // Error
 
 exports.dateFormatsFromObject("UK"); // 'gb'
 ```
